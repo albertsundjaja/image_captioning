@@ -62,3 +62,7 @@ a vase filled with flowers sitting on a table .
 ```
 a person is standing on a snowy mountain .
 ```
+
+## Conclusion and Further Work
+
+As we can see from the sample inference, the resulting captions are not really accurate, but it's not completely incorrect either. What can be improved is to use bigger vocab size, changing CNN encoder model, and getting more train data.
